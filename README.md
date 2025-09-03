@@ -1,29 +1,21 @@
-# Hi 👋, Devon Lewellen
+# Hi 👋, I am Devon Lewellen
 ## About Me
 
-- 🏦 I'm currently working for a state college in Nebraska teaching computer programming
+- 🏦 I'm currently enrolled in a state college in Nebraska learning computer programming
 
-- 📚 I’m studing to complete my Python certifications
-
-- 🤔 I use daily .java, .cpp, .py, .sql
+- 📚 I’m studying hard to learn HTML, CSS, and any other programming thrown at me
 
 - 👨🏻‍💻 Love programming and resolving problems
 
-- 🧠 I like to learn something new
+- 🧠 I like to learn new things
 
-- 📫 How to reach me **dejohns2@wsc.edu**
+- 📫 How to reach me **delewe01@wsc.edu**
 
-- 💬 Connect? Lets get social @ **https://www.linkedin.com/in/dljohnson1234/**
+- 💬 Connect? Lets get social @ **https://github.com/Dlewellen1113**
 
-
-I have held numerous IT positions including software analyst and project management for world market leaders. I have a wide range of technology experience ranging from microcomputer support to programming in numerous languages utilizing a variety of databases and hardware platforms.
+I did not have the chance to persue any coding in high school, so going into college to learn what i've been wanting to learn is a big thing for me.
 
 ### Education
 
-- MSOM, IT Management, Wayne State College, 2016
-
-- B.A., Computer Information Systems/Web Analyst, Wayne State College, 2014
-
-- A.A., Northeast Community College, 2014
-
-- AAS, Computer Programming, Northeast Community College, 1984
+- Graduated from Allen Consolidated Schools
+- Currently enrolled in Wayne State college; persuing a career in programming analysis
